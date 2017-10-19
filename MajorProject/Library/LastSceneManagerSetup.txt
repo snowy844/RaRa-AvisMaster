@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/MArks MAps/map_MM_04.unity
+  isLoaded: 1
+  isActive: 1

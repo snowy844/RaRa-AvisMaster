@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 534cabcc10b4bc44ca606d804b583763
+labels:
+- Blending
+- Pbr
+- Shader
+- Surface
+- Terrain
+timeCreated: 1495118171
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

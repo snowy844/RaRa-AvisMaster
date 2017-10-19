@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b4196204307049409357dbb85b1e153
+labels:
+- Blending
+- Shader
+- Terrain
+- Worldspace
+timeCreated: 1494509653
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

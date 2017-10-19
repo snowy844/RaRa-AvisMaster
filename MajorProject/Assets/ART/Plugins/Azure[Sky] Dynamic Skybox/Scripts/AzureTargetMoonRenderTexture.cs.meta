@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 40675a336ab117b47a6ca0d3b92c784e
+timeCreated: 1494499809
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MoonRenderRender: {fileID: 8400000, guid: ccacbb6f0664acc43869cbcaf8f31955, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
